@@ -9,3 +9,12 @@ Se enfoca de replicar la aparecncia visul de Pinterest ofeciendo una experiencia
 * **Interfaz de Usuario Intuitiva:** Inspirada en Pinterest, con una navegación fácil y accesible.
 * **Interacciones Dinámicas:** Efectos visuales para elementos interactivos como botones y enlaces.
 * **Iconografía y Estilos Modernos:** Uso de la biblioteca de íconos de Material Desing y estilos CSS modernos para una aparencia con elegancia.
+
+### Tecnologías Utilizadas
++**HTML5:** Para la estructura básica del sitio.
++**CSS:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
+
+### Vista Previa del Proyecto
+![image](https://github.com/PMBM36/Interfazdepinterest/assets/169218700/7612f403-ead6-4206-a7fa-fbe65f13324a)
+
+
