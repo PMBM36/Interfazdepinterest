@@ -16,7 +16,7 @@ Se enfoca de replicar la aparecncia visul de Pinterest ofeciendo una experiencia
 
 ### Vista Previa del Proyecto
 
-imagenes/CLONPINTEREST.png
+../imagenes/CLONPINTEREST.png
 
 ### Contacto
 Si te gustaria inivitarme a colaborar en un proyecto, escríbeme por [LinkedIn]()
