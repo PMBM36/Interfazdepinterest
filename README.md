@@ -1,4 +1,4 @@
-# clon de Pinterest con HTML y CSS
+# Clon de Pinterest con HTML y CSS
 Este proyecto es un clon de la interfas de usuario de pinteres, creado puramente con HTML5 y CSS3.
 
 Se enfoca de replicar la aparecncia visul de Pinterest ofeciendo una experiencia de navegación similar con un diseño responsive y funcionalidad básicas.
