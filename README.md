@@ -15,6 +15,9 @@ Se enfoca de replicar la aparecncia visul de Pinterest ofeciendo una experiencia
 +**CSS:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
 
 ### Vista Previa del Proyecto
-![image](https://github.com/PMBM36/Interfazdepinterest/assets/169218700/7612f403-ead6-4206-a7fa-fbe65f13324a)
+
+### Contacto
+Si te gustaria inivitarme a colaborar en un proyecto, escríbeme por [LinkedIn]()
+
 
 
